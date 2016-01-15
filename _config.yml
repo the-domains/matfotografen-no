@@ -1,0 +1,28 @@
+name: Matfotografen.no
+favicon: null
+layout_spectrum: 0.0016846717335283756
+typography_spectrum: 0.7324474162887782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8242137702181935
+  lightness: 0.8746088081970811
+  saturation: 0.8553883312270045
+  rhythmicContrast: 0.5513850492425263
+purpose: []
